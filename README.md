@@ -4,13 +4,13 @@
   </div>
   
   * <h3>HTML5<h3>
-  * <h3>CSS3<h3>
+  * <h3>CSS<h3>
   * <h3>JAVASCRIPT<h3>
   * <h3><U>EDITOR<u/>: VISUAL STUDIO CODE<h3>
   <div>
   <h2>💻Sobre o projeto<h2>
     </div>
- <p><h3>Fazendo o curso de programação do zero do Rodrigo Mori, foram 4 dias de muito aprendizado e ensinamento onde aprendi a desenvolver esse projeto utilizando as ferramentas de Html5,css3,javascript e usando o programa Visual studio code.<br>Nesse projeto desenvolvi diversas tag ex(colocar imagens e determina seu tamanho e local ,escolher a cor do fundo da tela e das letras, alterar a linguagem escrita ,arrendodamento de borda,colocar botões, configurar a margens do lado de dentro e fora ,configurar para que quando passar o mouse por cima do link e de palavras sublinhada aparecer uma maozinha e tambem utilizei a linguagem javascript para abrir uma função para poder trocar a imagem em determinado tempo.<h3></p>
+ <p><h3>Fazendo o curso de programação do zero do Rodrigo Mori, foram 4 dias de muito aprendizado e ensinamento onde aprendi a desenvolver esse projeto utilizando as ferramentas de Html5,css,javascript e usando o programa Visual studio code.<br>Nesse projeto desenvolvi diversas tag ex(colocar imagens e determina seu tamanho e local ,escolher a cor do fundo da tela e das letras, alterar a linguagem escrita ,arrendodamento de borda,colocar botões, configurar a margens do lado de dentro e fora ,configurar para que quando passar o mouse por cima do link e de palavras sublinhada aparecer uma maozinha e tambem utilizei a linguagem javascript para abrir uma função para poder trocar a imagem em determinado tempo.<h3></p>
     <div>
       <h2>⚙️Funcionalidades<h2>
         </div>
